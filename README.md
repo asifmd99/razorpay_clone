@@ -20,3 +20,5 @@ Using Tailwind CSS, the design of the page is easily customizable, and the Vite 
 
 # Conclusion
 This landing page was created using a combination of HTML, Tailwind CSS, Vite, and Node, resulting in a visually appealing and functional page that effectively showcases Razorpay's payment solutions.
+
+live demo-https://razorpayclon.netlify.app/
